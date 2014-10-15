@@ -1,6 +1,6 @@
 frontend-nanodegree-arcade-game
 ===============================
 
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
+This is from a Udacity lesson on object oriented javascript programming.
 
-for self-checking their submission.
+To get this to run, fork it and then run the index file from the browser. Enjoy!
